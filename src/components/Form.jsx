@@ -237,7 +237,7 @@ const handleMobileBlur = async (e) => {
     >
       <div className="bg-white/50 backdrop-blur-xl shadow-xl rounded-2xl p-6 w-full max-w-md border border-white/10">
         <h2 className="text-xl font-semibold text-white text-center mb-4">Apply Now</h2>
-<div class="npf_wgts" data-height="500px" data-w="f2c97c5bc9bbc30761df69f25c3d58f1"></div>
+<div class="npf_wgts" data-height="530px" data-w="f2c97c5bc9bbc30761df69f25c3d58f1"></div>
 
       </div>
     </motion.div>
