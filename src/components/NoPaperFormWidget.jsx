@@ -20,7 +20,7 @@ const NoPaperFormWidget = () => {
     <div
       className="npf_wgts"
       data-height="500px"
-      data-w="f2c97c5bc9bbc30761df69f25c3d58f1"
+      data-w="61eadc64fb6a2a3ab9d22e77978e3a4c"
       style={{ minHeight: "500px" }}
     ></div>
   );
